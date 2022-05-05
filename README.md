@@ -1,19 +1,23 @@
-#Projekt bazy danych firmy wraz z funkcjonalnościami
+# Projekt bazy danych firmy wraz z funkcjonalnościami
 
 W projekcie:
 
 1. zastosowano mechanizmy języka zapytań SQL dla ORACLE w wersji 18c, stworzono:
-..* tabele z wymaganymi ograniczeniami oraz danymi
-..* sekwencje
-..* widoki
+- tabele z wymaganymi ograniczeniami oraz danymi
+- sekwencje
+- widoki
 
-2. stworzono zbiór zapytań do bazy danych (6.ANALIZA_DANYCH.sql)
+2. stworzono zbiór zapytań do bazy danych (6.ANALIZA_DANYCH.sql) z wykorzystaniem:
+- funkcji agregujących
+- funkcji analitycznych
+- common table expression (CTE)
+- subqueries 
 
 3. stworzono programy składowane w PL/SQL:
-..* procedury 
-..* wyzwalacze
-..* pakiety
-..* funkcje
+- procedury 
+- wyzwalacze
+- pakiety
+- funkcje
 
 4. przedstawiono przykłady użycia kursorów oraz zmienych złożonych
 
